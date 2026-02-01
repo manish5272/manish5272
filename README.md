@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I’m Manish Dinni 👨‍💻<br>A passionate Computer Science student who loves building real-world AI & ML projects and experimenting with computer vision, AR, and smart systems. I enjoy turning ideas into working solutions and learning by doing 🚀<br>🔭 I’m currently working on<br>Smart Traffic Management System using YOLOv8 + OpenCV<br>AI Smart Surveillance System (face recognition, theft detection, alerts)<br>AR-based Education Demo App using Unity & AR Foundation<br>Improving full-screen UI dashboards for ML applications<br>👯 I’m looking to collaborate on<br>AI / Machine Learning projects<br>Computer Vision (YOLO, OpenCV)<br>Smart City & IoT-based solutions<br>Hackathons & innovation challenges<br>🤝 I’m looking for help with<br>Advanced model optimization & deployment<br>Backend integration for AI systems<br>Cloud deployment (AWS / GCP basics)<br>Scaling real-time ML applications<br>🌱 I’m currently learning<br>Advanced Machine Learning<br>Deep Learning & Model Fine-tuning<br>Backend integration for AI projects<br>AR/VR application development<br>💬 Ask me about<br>YOLOv8 & OpenCV<br>AI-based traffic & surveillance systems<br>Hackathon project building<br>Java, Python, Node.js basics<br>Turning academic ideas into industry-style projects<br>⚡ Fun fact<br>I love building complex projects solo, learning everything from scratch, and I never stop until the system actually works 😄🔥
 
-<!--
-**manish5272/manish5272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3._manish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manishdinni) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manishdinni.0935@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manish5272&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=manish5272&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manish5272&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=manish5272&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
